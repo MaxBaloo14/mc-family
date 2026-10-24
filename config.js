@@ -1,9 +1,9 @@
 // ✏️ Seul fichier à modifier quand une nouvelle version sort.
 window.SITE = {
-  version: "1.0.19",
+  version: "1.0.24",
   // Lien de téléchargement DIRECT de l'installateur (.exe). Laisse vide tant qu'il n'est pas prêt : le bouton affichera « Bientôt disponible ».
   download: "https://drive.google.com/file/d/1-1qAhXZs8NOQos2v8A7riIt9ZRiR6SqW/view?usp=sharing",
-  sizeMo: 115,
+  sizeMo: 118,
   mods: 94,
   minecraft: "1.21.1",
   loader: "NeoForge 21.1.249",
